@@ -1,0 +1,16 @@
+{
+  "name": "zip-app-5123",
+  "short_name": "zip-app-5123",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#00F5FF",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
